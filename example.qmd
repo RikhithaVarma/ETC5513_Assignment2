@@ -16,4 +16,6 @@ x <- 1:5
 mean(x)
 ```
 
-## 
+#Main branch update
+
+This section was added on `main` to intentionally create a merge conflict.
